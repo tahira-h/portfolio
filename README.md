@@ -10,7 +10,7 @@ A visitor of this new webpage would have various options to read more about the 
 
 Open the file containing UFO_1.
 
-![UFO_1](/UFOs/static/images/UFO_1.png)
+![res_1](/portfolio/assets/images/res_1.png)
 
 Close the file.
 
