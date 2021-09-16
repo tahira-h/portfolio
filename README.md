@@ -8,90 +8,62 @@ Link produced by index.html file is http://127.0.0.1:5500/portfolio-template-02/
 
 A visitor of this new webpage would have various options to read more about the UFO sightings provided in the filter table including date, city, state, country, and shape as shown in the image below.
 
-Open the file containing UFO_1.
+Open the file containing res_1.
 
 ![res_1](/assets/images/res_1.png)
 
 Close the file.
 
-A visitor of this new webpage would have various options to read more about the UFO sightings provided in the filter table including date, city, state, country, and shape as shown in the image below.
+Open the file containing res_2.
 
-Open the file containing UFO_1.
-
-![UFO_1](/UFOs/static/images/UFO_1.png)
+![res_2](/assets/images/res_2.png)
 
 Close the file.
 
-A visitor of this new webpage would have various options to read more about the UFO sightings provided in the filter table including date, city, state, country, and shape as shown in the image below.
+Open the file containing res_3.
 
-Open the file containing UFO_1.
-
-![UFO_1](/UFOs/static/images/UFO_1.png)
+![res_3](/assets/images/res_3.png)
 
 Close the file.
 
-A visitor of this new webpage would have various options to read more about the UFO sightings provided in the filter table including date, city, state, country, and shape as shown in the image below.
+Open the file containing res_4.
 
-Open the file containing UFO_1.
-
-![UFO_1](/UFOs/static/images/UFO_1.png)
+![res_4](/assets/images/res_4.png)
 
 Close the file.
 
-A visitor of this new webpage would have various options to read more about the UFO sightings provided in the filter table including date, city, state, country, and shape as shown in the image below.
+Open the file containing res_5.
 
-Open the file containing UFO_1.
-
-![UFO_1](/UFOs/static/images/UFO_1.png)
+![res_5](/assets/images/res_5.png)
 
 Close the file.
 
-A visitor of this new webpage would have various options to read more about the UFO sightings provided in the filter table including date, city, state, country, and shape as shown in the image below.
+Open the file containing res_6.
 
-Open the file containing UFO_1.
-
-![UFO_1](/UFOs/static/images/UFO_1.png)
+![res_6](/assets/images/res_6.png)
 
 Close the file.
 
-A visitor of this new webpage would have various options to read more about the UFO sightings provided in the filter table including date, city, state, country, and shape as shown in the image below.
+Open the file containing res_7.
 
-Open the file containing UFO_1.
-
-![UFO_1](/UFOs/static/images/UFO_1.png)
+![res_7](/assets/images/res_7.png)
 
 Close the file.
 
-A visitor of this new webpage would have various options to read more about the UFO sightings provided in the filter table including date, city, state, country, and shape as shown in the image below.
+Open the file containing res_9.
 
-Open the file containing UFO_1.
-
-![UFO_1](/UFOs/static/images/UFO_1.png)
+![res_9](/assets/images/res_9.png)
 
 Close the file.
 
-A visitor of this new webpage would have various options to read more about the UFO sightings provided in the filter table including date, city, state, country, and shape as shown in the image below.
+Open the file containing res_10.
 
-Open the file containing UFO_1.
-
-![UFO_1](/UFOs/static/images/UFO_1.png)
+![res_10](/assets/images/res_10.png)
 
 Close the file.
 
-A visitor of this new webpage would have various options to read more about the UFO sightings provided in the filter table including date, city, state, country, and shape as shown in the image below.
+Open the file containing res_11.
 
-Open the file containing UFO_1.
-
-![UFO_1](/UFOs/static/images/UFO_1.png)
+![res_11](/assets/images/res_11.png)
 
 Close the file.
-
-A visitor of this new webpage would have various options to read more about the UFO sightings provided in the filter table including date, city, state, country, and shape as shown in the image below.
-
-Open the file containing UFO_1.
-
-![UFO_1](/UFOs/static/images/UFO_1.png)
-
-Close the file.
-
-
