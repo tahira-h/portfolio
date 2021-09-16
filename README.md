@@ -6,8 +6,6 @@ Tools/Languages used: JavaScript, html, css.
 
 Link produced by index.html file is http://127.0.0.1:5500/portfolio-template-02/index.html.
 
-A visitor of this new webpage would have various options to read more about the UFO sightings provided in the filter table including date, city, state, country, and shape as shown in the image below.
-
 Open the file containing res_1.
 
 ![res_1](/assets/images/res_1.png)
