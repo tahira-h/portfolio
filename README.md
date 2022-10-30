@@ -42,12 +42,6 @@ Open the file containing res_6.
 
 Close the file.
 
-Open the file containing res_6.1.
-
-![res_6](/assets/images/res_6.1.png)
-
-Close the file.
-
 Open the file containing res_7.
 
 ![res_7](/assets/images/res_7.png)
