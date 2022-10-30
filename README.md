@@ -48,9 +48,9 @@ Open the file containing res_7.
 
 Close the file.
 
-Open the file containing res_9.
+Open the file containing res_9.0.
 
-![res_9](/assets/images/res_9.png)
+![res_9](/assets/images/res_9.0.png)
 
 Close the file.
 
