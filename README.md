@@ -1,6 +1,6 @@
 # portfolio
 
-The purpose of this repository is to create a portfolio to provide my technical skills and background to employers. My resume may be viewed by clicking on the "index.html" file.
+The purpose of this repository is to create a portfolio to provide my technical skills and background to employers. My resume may be viewed by clicking on the "index.html" link below.
 
 Tools/Languages used: JavaScript, HTML, CSS, Bootstrap.
 
