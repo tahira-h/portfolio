@@ -48,6 +48,12 @@ Open the file containing res_7.
 
 Close the file.
 
+Open the file containing res_8.
+
+![res_8](/assets/images/res_8.png)
+
+Close the file.
+
 Open the file containing res_9.0.
 
 ![res_9](/assets/images/res_9.0.png)
